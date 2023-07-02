@@ -1,6 +1,8 @@
 # cerberus-humaneheist
 Simple Heist where you retrieve some stuff from the human labs by hacking the computer in Lab 1 and taking files and samples from the Cold Room.
 
+Large inspriration and some snippets of code taken from https://github.com/oosayeroo/qb-miniheists however theyre not the same. 
+I've rewrote most of this to function differently as well as require item check and carry check to recieve payment, however there are bugs that I am working on fixing such as the gaurds not spawning.
 ```
 When finished, this will be a public release.
 
